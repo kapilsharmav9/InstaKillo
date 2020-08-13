@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055382345289",
+    "firebase_url": "https://instakillo-5ec60.firebaseio.com",
+    "project_id": "instakillo-5ec60",
+    "storage_bucket": "instakillo-5ec60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055382345289:android:1ac79b8c9dc3f9b908d198",
+        "android_client_info": {
+          "package_name": "com.example.instakillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055382345289-9mddv6ldij7fec8fv2hfpp9f6ojfof60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instakillo",
+            "certificate_hash": "b35cf23c74c9cda9e11b57127b25a333e2d421c8"
+          }
+        },
+        {
+          "client_id": "1055382345289-crnkm0c78j4fag18vqk63nknch3qsjv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu-deBZFK639MWNCCqFdpQe9VQXcAykMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055382345289-crnkm0c78j4fag18vqk63nknch3qsjv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
